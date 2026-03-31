@@ -19,7 +19,6 @@ Experiments use chunked text windows and compare methods across shared window se
 - **Best SFT result**: **QLoRA Vanilla = 0.3399** (window 512).
 - **Best preference (vanilla)**: **ORPO = 0.3181**.
 - **Best preference (rebalanced)**: **ORPO = 0.3798** (strongest preference run).
-- Rebalanced preference sweep is now **complete (24/24 runs)**.
 
 ## Key findings (5 bullets)
 - `bert-base-uncased` is the strongest encoder baseline overall in this setup.
