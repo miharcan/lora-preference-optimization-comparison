@@ -1,9 +1,6 @@
 # MH-Bench: Joint Mental Health Classification Benchmark
 
-## Project title
-**MH-Bench: Qwen, BERT, XGBoost, and Preference Optimization on Joint Anxiety/Depression Classification**
-
-## 1-sentence goal
+## Goal
 Build a fair, reproducible benchmark for classifying joint anxiety/depression states, and compare classic ML, encoder models, SFT adapters, and preference-optimization methods under matched evaluation settings.
 
 ## Methods compared
