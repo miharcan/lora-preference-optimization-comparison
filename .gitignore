@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Allowlist: keep only minimal framework code and docs
+!.gitignore
+!README.md
+!run_pipeline.sh
+!run_xgboost_baseline.py
+!run_encoder_baseline.py
+!run_sft_pipeline.py
+!run_prefopt_pipeline.py
